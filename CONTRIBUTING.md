@@ -5,7 +5,7 @@ Contributions are welcome! Please follow these guidelines.
 ## Development Setup
 
 ```bash
-git clone https://github.com/moneo/markdown-for-agents.git
+git clone https://github.com/moneo/laravel-markdown-for-agents.git
 cd markdown-for-agents
 composer install
 ```
