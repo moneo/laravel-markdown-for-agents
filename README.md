@@ -1,6 +1,7 @@
 # Laravel Markdown for Agents
 
 [![Tests](https://github.com/moneo/laravel-markdown-for-agents/actions/workflows/tests.yml/badge.svg)](https://github.com/moneo/laravel-markdown-for-agents/actions/workflows/tests.yml)
+[![codecov](https://codecov.io/gh/moneo/laravel-markdown-for-agents/graph/badge.svg)](https://codecov.io/gh/moneo/laravel-markdown-for-agents)
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/moneo/markdown-for-agents.svg)](https://packagist.org/packages/moneo/markdown-for-agents)
 [![PHP Version](https://img.shields.io/packagist/php-v/moneo/markdown-for-agents.svg)](https://packagist.org/packages/moneo/markdown-for-agents)
 [![Laravel Version](https://img.shields.io/badge/laravel-11.x%20%7C%2012.x-FF2D20.svg)](https://laravel.com)
